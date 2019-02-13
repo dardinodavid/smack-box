@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/smack-box/static/media/hat-open2.968a7915.wav"
   },
   {
-    "revision": "891ac4d02ec4ff2112cad866000bb095",
+    "revision": "766c4897a91a1bf9b9e413acc35f4b6f",
     "url": "/smack-box/index.html"
   }
 ];
