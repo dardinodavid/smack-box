@@ -1,0 +1,22 @@
+{
+  "main.css": "/smack-box/static/css/main.a97c58e5.chunk.css",
+  "main.js": "/smack-box/static/js/main.e64ab724.chunk.js",
+  "main.js.map": "/smack-box/static/js/main.e64ab724.chunk.js.map",
+  "static/js/1.dc79c960.chunk.js": "/smack-box/static/js/1.dc79c960.chunk.js",
+  "static/js/1.dc79c960.chunk.js.map": "/smack-box/static/js/1.dc79c960.chunk.js.map",
+  "runtime~main.js": "/smack-box/static/js/runtime~main.0af6b025.js",
+  "runtime~main.js.map": "/smack-box/static/js/runtime~main.0af6b025.js.map",
+  "static/media/snare3.wav": "/smack-box/static/media/snare3.ae960e7a.wav",
+  "static/media/kick1.wav": "/smack-box/static/media/kick1.779299a5.wav",
+  "static/media/kick3.wav": "/smack-box/static/media/kick3.cf2415d5.wav",
+  "static/media/snare1.wav": "/smack-box/static/media/snare1.849f74a5.wav",
+  "static/media/snare2.wav": "/smack-box/static/media/snare2.569a9e24.wav",
+  "static/media/hat-closed.wav": "/smack-box/static/media/hat-closed.43ed6274.wav",
+  "static/media/hat-open1.wav": "/smack-box/static/media/hat-open1.8825fa90.wav",
+  "static/media/hat-open2.wav": "/smack-box/static/media/hat-open2.968a7915.wav",
+  "static/media/kick2.wav": "/smack-box/static/media/kick2.263dfcf8.wav",
+  "static/css/main.a97c58e5.chunk.css.map": "/smack-box/static/css/main.a97c58e5.chunk.css.map",
+  "index.html": "/smack-box/index.html",
+  "precache-manifest.5406cc0c8ba298d73f9a91aac3b9406a.js": "/smack-box/precache-manifest.5406cc0c8ba298d73f9a91aac3b9406a.js",
+  "service-worker.js": "/smack-box/service-worker.js"
+}
